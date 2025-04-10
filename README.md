@@ -45,10 +45,3 @@ This Power BI dashboard project provides in-depth insights into Zomato's restaur
 - Access to Zomato dataset or provided sample data
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/fa4ee19b-70ed-468a-a8cf-535d04997443)
-## License
-This project is licensed under the MIT License.
-"""
-readme_file_path = "/mnt/data/README_Zomato_Insights.md"
-with open(readme_file_path, "w") as file:
-    file.write(readme_content)
-readme_file_path
